@@ -6,7 +6,7 @@ import requests from "../Utils/requests";
 
 export default function Home({ results }) {
   return (
-    <div className="max-w-[1640px]">
+    <div >
       <Head>
         <title>Hulu 2.0</title>
       </Head>
